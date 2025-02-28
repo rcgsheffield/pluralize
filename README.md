@@ -20,12 +20,16 @@ conda activate pluralize
 
 ## Data
 
-Download the following data sets into the `./data` directory:
+This repository contains a [Bash script](https://swcarpentry.github.io/shell-novice/) called `scripts/download_data.sh` that downloads the following data sets into the `./data` directory:
 
 * [AidData's Global Chinese Development Finance Dataset, Version 3.0](https://www.aiddata.org/data/aiddatas-global-chinese-development-finance-dataset-version-3-0)
 * [Geocoded Global China Data
   AidData's Geospatial Global Chinese Development Finance Dataset, Version 3.0](https://www.aiddata.org/data/aiddatas-geospatial-global-chinese-development-finance-dataset-version-3-0)
 * [GHSL - Global Human Settlement Layer](https://human-settlement.emergency.copernicus.eu/ghs_smod2019.php)
+
+and the following shape files into the `./shapefiles` directory:
+
+* Natural Earth [1:110m Cultural Vectors](https://www.naturalearthdata.com/downloads/110m-cultural-vectors/)
 
 # Usage
 
